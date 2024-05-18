@@ -8,7 +8,6 @@ You have been given access to OpenAI's GPT-4 API. Describe how you would use thi
 3. Identification of user use case from the query (Intent classification)-
     - Useer query can be of different types like-
         - query for order status
-        - query for order status
         - query for a product information
         - query for return policy
         - query for technical support
